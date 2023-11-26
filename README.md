@@ -24,9 +24,13 @@
 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
+![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss))&nbsp;
+
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
 
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)&nbsp;
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
 
