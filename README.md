@@ -24,7 +24,7 @@
 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss);
+![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
 
